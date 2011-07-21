@@ -18,4 +18,4 @@ requires:
   JSON: 0
 resources:
   repository: git://github.com/adamtaylor/WWW-Delicious-Simple.git
-version: 0.01
+version: 0.02

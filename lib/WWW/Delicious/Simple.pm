@@ -39,7 +39,7 @@ WWW::Delicious::Simple - Simple interface to the Delicious API
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
